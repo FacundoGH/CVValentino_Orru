@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed; 
-  background: #040404 url("../img/shows-buenos-aires-1024x683.jpg") top right no-repeat; /* la imagen gral del background esta ajustada para 1920 x 1080 pixeles */
+  background: #040404 url("avion/de/fondo.jpeg") top right no-repeat; /* la imagen gral del background esta ajustada para 1920 x 1080 pixeles */
   background-size: cover;
   left: 0;
   right: 0;
