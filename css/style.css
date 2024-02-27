@@ -12,9 +12,9 @@
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #040404;
+  background: url("../img/shows-buenos-aires-1024x683.jpg") top right no-repeat;
   color: #fff;
   position: relative;
-  background: url("../img/shows-buenos-aires-1024x683.jpg") top right no-repeat;;
 }
 
 body::before {
