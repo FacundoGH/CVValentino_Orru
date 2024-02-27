@@ -14,7 +14,7 @@ body {
   background-color: #040404;
   color: #fff;
   position: relative;
-  background: transparent;
+  background: url("../img/shows-buenos-aires-1024x683.jpg") top right no-repeat;;
 }
 
 body::before {
